@@ -2,7 +2,7 @@
 
 ### For user
 
-Access [https://ccsfsph.github.io/](https://ccsfsph.github.io/) to see how to use it!
+Access our document [https://ccsfsph.github.io/](https://ccsfsph.github.io/) to see how to install and use it!
 
 ### For developer
 
